@@ -29,7 +29,7 @@
 - [Tharindu Malshan](https://github.com/tharindumalshan1)
 - [Aswin Gopinathan](https://github.com/infiniteoverflow)
 - [Raj Rani](https://github.com/ARsquare)
-- Ignorus
+- Ignorus brazil
 - [Jamie Townsend](https://github.com/diginari)
 - [Abilarsh Viji](https://github.com/AbilarshViji)
 - [Mustapha Babajide Adubiagbe](https://github.com/jidemusty)
